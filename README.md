@@ -1,6 +1,6 @@
 These are a series of JavaScript exercises intended to be used alongside the curriculum at 'The Odin Project'. They start simple and easy but get more complex and involved as you progress through them.
 
-There will eventually be a suggested order of completion, but at this time since we are still in the process of creating more exercises the order is subject to change and has not yet been specified. However, there are a few exercises that make a good "starting point". Feel free to at least start with these:
+There will eventually be a suggested order of completion, but at this time since we are still in the process of creating more exercises the order is subject to change and has not yet been specified. However, there are a few exercises that make a good n"starting point". Feel free to at least start with these:
 
 1. Hello World
 2. Repeat String
